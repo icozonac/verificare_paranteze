@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\verificare_paranteze\verificare_paranteze\x64\Debug\verificare_paranteze.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\verificare_paranteze\verificare_paranteze\x64\Debug\verificare_paranteze.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\verificare_paranteze\verificare_paranteze\x64\Debug\verificareparanteze.MyForm.resources
+C:\Users\User\source\repos\verificare_paranteze\verificare_paranteze\x64\Debug\verificare_paranteze.vcxproj.GenerateResource.cache
+D:\OneDrive - Universitatea „OVIDIUS”\Desktop\verificare_paranteze\verificare_paranteze\x64\Debug\verificare_paranteze.vcxproj.AssemblyReference.cache
+D:\OneDrive - Universitatea „OVIDIUS”\Desktop\verificare_paranteze\verificare_paranteze\x64\Debug\verificare_paranteze.vcxproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Universitatea „OVIDIUS”\Desktop\verificare_paranteze\verificare_paranteze\x64\Debug\verificareparanteze.MyForm.resources
+D:\OneDrive - Universitatea „OVIDIUS”\Desktop\verificare_paranteze\verificare_paranteze\x64\Debug\verificare_paranteze.vcxproj.GenerateResource.cache

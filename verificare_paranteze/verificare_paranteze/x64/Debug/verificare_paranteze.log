@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\OneDrive - Universitatea „OVIDIUS”\Desktop\verificare_paranteze\verificare_paranteze\MyForm.cpp(143,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  verificare_paranteze.vcxproj -> D:\OneDrive - Universitatea „OVIDIUS”\Desktop\verificare_paranteze\x64\Debug\verificare_paranteze.exe
